@@ -1,16 +1,20 @@
-## Hi there 👋
+#  Oii, eu sou a Vanessa!
 
-<!--
-**VanessaSLino/VanessaSLino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (5º período)
 
-Here are some ideas to get you started:
+Atualmente atuo com infraestrutura de redes, realizando análise de backups, automação de processos em servidores e suporte técnico ao usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No dia a dia, trabalho com configuração de VPN (OpenVPN), acesso e permissões de rede, mapeamento de pastas, DNS e rotinas via terminal Linux (PuTTY), utilizando scripts e comandos para automação e controle de processos.
+
+Tenho direcionado meus estudos para desenvolvimento fullstack, com foco em front-end 💻 e desenvolvimento web ⚙️.
+
+📚 Estudos focados em:
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)
+
+---
+
+📫
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vanessa-s-lino)
+
+📧
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?logo=gmail\&logoColor=white)](mailto:vanessasilvalino@hotmail.com)
